@@ -5,26 +5,44 @@
     <key>items</key>
     <array>
     	<dict>
-			<key>assets</key>
-			<array>
-				<dict>
-					<key>kind</key>
-					<string>software-package</string>
-					<key>url</key>
-					<string>http://eln.dxzq.net/down/dxzq.ipa</string>
-				</dict>
-			</array>
-			<key>metadata</key>
-			<dict>
-				<key>bundle-identifier</key>
-				<string>com.bshinfo.dxzq</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
-				<key>kind</key>
-				<string>software</string>
-				<key>title</key>
-				<string>东兴e学院</string>
-			</dict>
+	<key>assets</key>
+	<array>
+		<dict>
+			<key>kind</key>
+			<string>software-package</string>
+			<key>url</key>
+			<string>http://eln.dxzq.net/down/dxzq.ipa</string>
+		</dict>
+
+		<dict>  
+                    <key>kind</key>  
+                    <string>full-size-image</string>  
+                    <key>needs-shine</key>  
+                    <true/>  
+                    <key>url</key>  
+                    <string>http://eln.dxzq.net/down/Icon@2x.png</string>  
+                </dict>  
+                <dict>  
+                    <key>kind</key>  
+                    <string>display-image</string>  
+                    <key>needs-shine</key>  
+                    <true/>  
+                    <key>url</key>  
+                    <string>http://eln.dxzq.net/down/Icon.png</string>  
+                </dict> 
+
+		</array>
+		<key>metadata</key>
+		<dict>
+			<key>bundle-identifier</key>
+			<string>com.bshinfo.dxzq</string>
+			<key>bundle-version</key>
+			<string>1.0</string>
+			<key>kind</key>
+			<string>software</string>
+			<key>title</key>
+			<string>东兴e学院</string>
+		</dict>
 		</dict>
 	</array>
 </dict>
