@@ -17,19 +17,19 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://eln.dxzq.net/down/Icon@2x.png</string>
+					<string>http://eln.dxzq.net/down/Icon.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://eln.dxzq.net/down/Icon.png</string>
+					<string>http://eln.dxzq.net/down/Icon@2x.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.bshinfo.dxzq</string>
+				<string>net.bshinfo.dxzq</string>
 				<key>bundle-version</key>
 				<string>1.15</string>
 				<key>kind</key>
